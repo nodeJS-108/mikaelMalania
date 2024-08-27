@@ -1,0 +1,15 @@
+{
+  "name": "my-first-node-app",
+  "version": "0.0.1",
+  "description": "this is my very first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "puppeteer-html-pdf": "^4.0.8"
+  }
+}

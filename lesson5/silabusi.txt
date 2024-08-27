@@ -1,0 +1,10 @@
+ინტერნეტში ინფორმაციის მიმოცვლის ზოგადი მიმოხილვა  : 
+HTTP-ის მიმოხილვა (სტატუსკოდები, ჰედერები) : 
+HTTP მოდული : 
+CORS : 
+ვებ-სერვერის გაშვება : 
+HTTP მოთხოვნების მიღება და დამუშავება
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+https://www.testkarts.com/img/blog/HTTP-Reuest-Method-by-testkarts.jpg
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
