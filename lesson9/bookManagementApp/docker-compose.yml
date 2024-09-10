@@ -2,7 +2,7 @@ version: '3.8'
 services:
     db:
         container_name: books_postgres_container11
-        image: mongo
+        image: postgres
         restart: always
         environment:
             POSTGRES_USER: root
