@@ -8,6 +8,7 @@ let client;
 
 function init() {
     client = new MongoClient(url);
+    console.log('Connected to MongoDB');
 }
 
 function getClient() {
