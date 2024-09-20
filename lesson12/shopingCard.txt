@@ -1,0 +1,3 @@
+1. add desired product(s) to the shopping card
+2. redirect items from shopping card to the checkout page
+3. remove one or more items from the shopping card
